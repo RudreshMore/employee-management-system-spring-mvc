@@ -29,6 +29,9 @@ A simple Employee Management System built using Spring Boot, Spring MVC, JSP, an
 ## ⚙️ Configuration
 Update `application.properties` with your database details:
 
+## 🎥 Project Demo Video
+▶️ Watch here: https://github.com/RudreshMore/employee-management-system-spring-mvc/issues/1#issue-3764289401
+
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/your_db
 spring.datasource.username=root
@@ -46,5 +49,3 @@ Run EmpMvcApplication
 Open browser: http://localhost:8080/employee/register
 
 
-## 🎥 Project Demo Video
-▶️ Watch here: https://github.com/RudreshMore/employee-management-system-spring-mvc/issues/1#issue-3764289401
